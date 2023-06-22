@@ -1,2 +1,0 @@
-# LearningNodeJS
-Learning Node.js
